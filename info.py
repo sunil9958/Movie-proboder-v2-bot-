@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://telegra.ph/file/e990dd80ce033f78f48c8.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'ziplinker.net'))
-STREAM_API = (environ.get('STREAM_API', '879753c6ad56b7b44a450f3bb0279c22f34360c4'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'moneykamalo.com'))
+STREAM_API = (environ.get('STREAM_API', '53362733be35ea8cfba46e2866d29200e40d9b92'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/+RK-uQG5u-4RhMzE1'))
 
 # Admins, Channels & Users
